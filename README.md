@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 📫 How to reach me **tharuushi@gmail.com**
 
