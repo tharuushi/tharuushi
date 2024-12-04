@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tharuushii" target="blank"><img src="https://img.shields.io/twitter/follow/tharuushii?logo=twitter&style=for-the-badge" alt="tharuushii" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JS, Python, DSA**
+- 🌱 I’m currently learning
 
-- 👯 I’m looking to collaborate on **Java, C++**
+- 👯 I’m looking to collaborate on **Python**
 
 - 📫 How to reach me **tharuushi@gmail.com**
 
